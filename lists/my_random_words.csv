@@ -1,0 +1,561 @@
+Level,#,Label,Definition,Correct,Attempts,Score %
+1,1,"聊天","to chat",14,14,100
+1,2,"你可以和我聊天吗","Can you chat with me?",23,27,85
+1,3,"该你了","Your turn",17,18,94
+1,4,"邮局","post office",15,16,93
+1,5,"高速公路","highway",18,19,94
+1,6,"四季宾馆","Four seasons hotel",22,30,73
+1,7,"麦当劳","McDonalds",15,15,100
+1,8,"星巴克咖啡厅","Starbucks",15,15,100
+1,9,"夏威夷","Hawaii",16,16,100
+1,10,"西安","Xi'an",20,21,95
+1,11,"万里长城","Great Wall",24,25,96
+1,12,"京剧","Beijing opera",14,14,100
+1,13,"好玩","Fun",14,14,100
+1,14,"有意思","interesting",20,21,95
+1,15,"旁边","beside",15,15,100
+2,1,"后边","behind",19,21,90
+2,2,"附近","nearby",20,21,95
+2,3,"对面","opposite",32,35,91
+2,4,"图书馆","Library",15,16,93
+2,5,"公共交通","Public Transit",25,29,86
+2,6,"自行车","bicycle",14,14,100
+2,7,"摩托车","motorcycle",14,14,100
+2,8,"旅游","tourism",30,34,88
+2,9,"坐船","to take a boat",20,23,86
+2,10,"电车","streetcar",15,15,100
+2,11,"露营","camp",52,64,81
+2,12,"蒙特利尔","Montreal",19,22,86
+2,13,"离开","to leave",16,16,100
+2,14,"游戏","game, to play",22,25,88
+2,15,"如果-则-否则","if-then-else",6,8,75
+3,1,"发电子","to send (electronically)",36,42,85
+3,2,"出门","to go out",39,45,86
+3,3,"邮件","email",35,43,81
+3,4,"短信","text message",14,14,100
+3,5,"洗澡","to shower",15,15,100
+3,6,"走路","to walk",15,15,100
+3,7,"洗衣机","washing machine",20,22,90
+3,8,"刮风","to be windy",15,15,100
+3,9,"晚","late",20,21,95
+3,10,"会+verb","will be + verb",19,20,95
+3,11,"已经","already",14,14,100
+3,12,"还没有","not yet",20,21,95
+3,13,"还有","furthermore (also)",48,59,81
+3,14,"念书","to study",27,29,93
+3,15,"毕业","graduation",17,18,94
+4,1,"或者","or",22,24,91
+4,2,"有时候","sometimes",14,14,100
+4,3,"公园","park",15,15,100
+4,4,"公寓","apartment building",33,39,84
+4,5,"事情","A thing that you can do",28,30,93
+4,6,"接","to pick up (a person)",15,15,100
+4,7,"地方","place",20,21,95
+4,8,"可能","possibly",14,14,100
+4,9,"时间","time",14,14,100
+4,14,"以后","after",15,15,100
+4,15,"以前","before",27,30,90
+5,5,"外面","outside",22,23,95
+5,6,"最喜欢","favorite",16,16,100
+5,8,"动物园","zoo",15,15,100
+5,9,"然后","and then",14,14,100
+5,10,"虽然。。。但是","although",60,82,73
+5,11,"因为。。。所以","because",30,40,75
+5,12,"为什么","why?",14,14,100
+5,13,"周末","weekend",14,14,100
+5,14,"礼物","gift",14,14,100
+5,15,"电子书","ebook",23,24,95
+6,1,"吃的","things to eat",17,17,100
+6,2,"住的","place to live",15,15,100
+6,3,"穿的","things to wear",15,15,100
+6,4,"用的","things to use",14,14,100
+6,5,"沃尔玛","Wallmart",23,28,82
+6,6,"传统","traditional",36,44,81
+6,7,"印象","sounds",50,70,71
+6,8,"流利","fluent",36,44,81
+6,9,"点心","dim sum",24,25,96
+6,11,"要是。。。的话。。。就","if then",28,35,80
+6,12,"有时间","a moment",37,42,88
+6,13,"会","will",19,20,95
+6,14,"号码","number/code",14,14,100
+6,15,"电话号码","telephone number",21,22,95
+7,1,"开机","to start the machine",15,15,100
+7,2,"关机","to turn off",15,15,100
+7,3,"打通","to get through",14,14,100
+7,4,"打错","wrong number",23,27,85
+7,5,"打完","to finish the call",14,16,87
+7,6,"留言","voicemail",46,54,85
+7,7,"雨伞","umbrella",14,14,100
+7,8,"冰箱","refrigerator",15,15,100
+7,9,"洗衣机","Washing mashine",24,27,88
+7,10,"词典","dictionary",21,23,91
+7,11,"铅笔","pencil",22,24,91
+7,12,"钥匙","key",30,34,88
+7,13,"微波炉","microwave",16,17,94
+7,14,"杂志摊","newsstand",15,20,75
+7,15,"杂志","magazine",36,43,83
+8,1,"烤炉","oven",27,30,90
+8,2,"地图","map",15,15,100
+8,3,"报纸","newspaper",15,15,100
+8,4,"桌子","table",16,17,94
+8,5,"蛋糕","cake",19,20,95
+8,6,"宠物","pet",21,22,95
+8,7,"安静","quiet",16,17,94
+8,8,"专业","major",14,14,100
+8,9,"数学","mathematics",20,21,95
+8,10,"小专业","minor",27,29,93
+8,11,"物理","physics",23,25,92
+8,12,"理发师","hairdresser",32,38,84
+8,13,"幼儿老师","kindergarten teacher",24,28,85
+8,14,"多长时间","how long",27,31,87
+9,1,"艺术","art",23,30,76
+9,2,"所有","anything",32,36,88
+9,3,"门票","ticket",20,21,95
+9,4,"中国城","china town",28,31,90
+9,5,"健康","healthy",14,14,100
+9,6,"牛奶","milk",16,16,100
+9,7,"其他的人","other people",17,19,89
+9,8,"为了","for something",20,22,90
+9,9,"别的国家","other countries",36,42,85
+9,10,"古巴","Cuba",16,17,94
+9,11,"海滩","beach",37,46,80
+9,12,"放松","to relax",25,27,92
+9,13,"无线","wireless",16,16,100
+9,14,"帮","to help",15,15,100
+9,15,"行李","luggage",28,31,90
+10,1,"广场","public square",30,33,90
+10,2,"网络","network",27,29,93
+10,3,"确定","to determine, to confirm",28,31,90
+10,4,"功课","school work",40,44,90
+10,5,"随便","anyway, no matter",46,54,85
+10,6,"结束","to finish",18,19,94
+10,7,"幸运","fortunate, lucky",63,81,77
+10,8,"复习","to revise, to review",26,28,92
+10,9,"生活","life",15,16,93
+10,10,"暑假","summer vacation",35,41,85
+10,11,"出国","to go abroad",14,15,93
+10,12,"存钱","to save money",15,16,93
+10,13,"留学","to study abroad",18,24,75
+10,14,"一定","for sure",14,14,100
+10,15,"希望","to wish for",32,37,86
+11,1,"有趣","to be interesting",68,93,73
+11,2,"打工","to work a temporary job",37,42,88
+11,3,"大概","approximately",20,22,90
+11,4,"中间","in the middle of",30,33,90
+11,5,"靠近","near",19,20,95
+11,6,"应该的","my pleasure",23,24,95
+11,7,"超级","super, extremely",24,27,88
+11,8,"害羞","shy",71,92,77
+11,9,"慢用","to enjoy at one’s leisure",14,15,93
+11,10,"无聊","boring",22,25,88
+11,11,"唱歌","to sing",15,15,100
+11,12,"篮球场","basketball court",32,36,88
+11,13,"而且","furthermore/also",14,14,100
+11,14,"宿舍","dormitory",14,14,100
+11,15,"平安","safety",24,26,92
+12,1,"更好","better",14,14,100
+12,2,"幸福","blessed",22,26,84
+12,3,"箱包","to hug",23,26,88
+12,4,"死","to die/extremely",16,16,100
+12,5,"流汗","perspiration",51,63,80
+12,6,"球场","ball park",14,14,100
+12,7,"往前走","to walk forward",32,40,80
+12,8,"右转","to turn right",21,25,84
+12,9,"跑","to run",19,20,95
+12,10,"爱情","love; affection",20,21,95
+12,11,"感情","feeling; emotion",37,45,82
+12,12,"浪漫","romantic",21,24,87
+12,13,"温柔","warmth and softness",36,43,83
+12,14,"婚姻","matrimony; happiness",40,46,86
+12,15,"孤单","lonely",42,48,87
+13,1,"墙","wall",21,28,75
+13,2,"水槽","sink",17,18,94
+13,3,"叉子","fork",22,23,95
+13,4,"盘子","plate",21,22,95
+13,5,"刀","knife",22,23,95
+13,6,"勺子","spoon",15,15,100
+13,7,"赚钱","to make money",57,73,78
+13,8,"零钱","change (of money)",35,38,92
+13,9,"长头发","long hair",18,21,85
+13,10,"短头发","short hair",15,16,93
+13,11,"毛衣","wool sweater",20,21,95
+13,12,"脱","to take off (clothing)",38,44,86
+13,13,"拿下来","to take off (accessories)",25,29,86
+13,14,"信用卡","credit card",27,29,93
+13,15,"那种","that type of",20,22,90
+14,1,"热身","to warm up",16,17,94
+14,2,"投篮","to shoot (basketball)",39,47,82
+14,3,"不行","unable to deal with something because it is extremely good or bad",15,15,100
+14,4,"公平","fair",17,18,94
+14,5,"打平","tied game",20,21,95
+14,6,"晴天","sunny day",36,42,85
+14,7,"阴天","cloudy day",14,14,100
+14,8,"体贴","thoughtful; considerate",32,35,91
+14,9,"周年","anniversary",20,22,90
+14,10,"交往","to date; to court; to asociate",59,81,72
+14,11,"前女友","ex-girlfriend",14,14,100
+14,12,"心碎","heart-broken",28,30,93
+14,13,"吵架","to quarrel",36,43,83
+14,14,"暧昧","amorous feelings; flirting",27,29,93
+15,1,"嫉妒","to be jealous; envious",52,73,71
+15,2,"谈恋爱","to be in love; to be in a romantic relationship",22,27,81
+15,3,"小三","the third person in the relationship; mistress",36,40,90
+15,4,"相亲","to go on a blind date",41,64,64
+15,5,"勾引","to seduce; to tempt",23,26,88
+15,6,"背叛","to betray",35,43,81
+15,7,"笑","to laugh",14,14,100
+15,8,"休息","to rest",15,15,100
+15,9,"情书","love letter",29,31,93
+15,10,"亲吻","kiss",14,14,100
+15,11,"劈腿","splits",14,14,100
+15,12,"热恋","to be passionately in love",36,49,73
+15,13,"跳投","jump shot",37,43,86
+15,14,"往","towards",16,19,84
+15,15,"传球","to pass the ball",35,40,87
+15,16,"抓球","to catch the ball",39,44,88
+16,1,"防守","to defend; to guard",57,71,80
+16,2,"输","to lose",15,15,100
+16,3,"看来","apparently / it seems / it looks as if",41,47,87
+16,4,"练习","to practice (an exercise)",14,14,100
+16,5,"建议","suggestion; propose",66,85,77
+16,6,"运球","to dribble a ball",40,48,83
+16,7,"这样","this kind",15,20,75
+16,8,"基础","foundation; base",28,33,84
+16,9,"重要","important",14,14,100
+16,10,"惨","miserable",28,32,87
+16,11,"体力","physical strength",20,22,90
+17,1,"高尔夫","golf",23,25,92
+17,2,"无所谓","It doesn't matter",26,30,86
+17,3,"暖和","warm",42,47,89
+17,4,"志愿","employee",55,77,71
+17,5,"导游","tour guide",43,52,82
+17,6,"休息","to rest",15,15,100
+17,7,"发烧","to have a fever",14,14,100
+17,8,"头疼","to have a headache",15,15,100
+17,9,"流鼻涕","runny nose",16,18,88
+17,10,"打喷嚏","to sneeze",14,14,100
+17,11,"抽烟","to smoke (a cigarette, tobacco)",20,25,80
+17,12,"乱","messy (also: chaotic)",31,35,88
+17,13,"矮","to be short",15,15,100
+17,14,"挤","crowded (also: to cram, jostle, squeeze)",31,38,81
+17,15,"交通","traffic, to be connected",48,66,72
+17,16,"照相机","camera",20,23,86
+18,1,"科学","science",24,25,96
+18,2,"第三者","third party",17,19,89
+18,3,"分。。。手","to break up",27,31,87
+18,4,"邂逅","rencontre; to meet somebody unexpectedly",46,66,69
+18,5,"接。。。吻","kiss",42,48,87
+18,6,"分开","to separate",43,57,75
+18,7,"对。。。感兴趣","to feel interested",42,54,77
+18,8,"周天","sunday",21,23,91
+18,9,"姑娘","girl; maiden; young lady",14,14,100
+18,10,"停。。。的","very; quite",17,20,85
+18,11,"想法","way of thinking; idea; thought; opiniona",31,35,88
+18,12,"男生","man; boy; male; guy",28,32,87
+18,13,"主动","actively; proactive forward",47,61,77
+19,1,"从大学毕业","to graduate from university",19,21,90
+19,2,"我的法语很流利","I'm fluent in French",17,19,89
+19,3,"一些城市","A few cities",15,15,100
+19,4,"传统的中国文化","Chinese Tradition and culture",48,57,84
+19,5,"西方文化","Western Culture",21,25,84
+19,6,"历史","history",17,18,94
+19,7,"原因","famous",75,95,78
+19,8,"小时","hour",22,23,95
+19,9,"空间","space",14,14,100
+19,10,"人口","population",17,19,89
+19,11,"差不多","pretty much",14,14,100
+19,12,"度","degree",27,31,87
+19,13,"零下","below zero",18,20,90
+19,14,"温度","temperature",17,19,89
+20,1,"温度高","high temperature",35,45,77
+20,2,"温度低","low temperature",23,27,85
+20,3,"多少度","What temperature",20,23,86
+20,4,"暖气","heater",45,53,84
+20,5,"经常","frequently",35,41,85
+20,6,"舒服","comfortable",14,15,93
+20,7,"平时","normally",50,63,79
+20,8,"发音","to pronounce",35,42,83
+20,9,"选择","to select / choose",30,38,78
+20,10,"简单","simple; easy",14,14,100
+20,11,"有名","famous",23,26,88
+20,12,"兼职工作","part-time job",33,45,73
+20,13,"全职工作","fulltime job",42,54,77
+20,14,"设计","plan",51,64,79
+20,15,"对。。。感兴趣","to feel interested",42,54,77
+20,16,"语言","language",47,62,75
+21,1,"复杂","complicated",39,53,73
+21,2,"本地","local",15,16,93
+21,3,"口音","accent",18,19,94
+21,4,"护照","passport",37,43,86
+21,5,"文化","culture",14,14,100
+21,6,"口语","spoken language",15,16,93
+21,7,"还可以","Not bad",31,38,81
+21,8,"方便","convenient",15,15,100
+21,9,"打算","to plan",24,27,88
+21,10,"假期","vacation",62,88,70
+21,11,"是否","whether or not",34,44,77
+22,1,"直升机","helicopter",38,44,86
+22,2,"设计","plan",51,64,79
+22,3,"出了。。。意外，还有","As well as...what else...",2,3,66
+22,4,"警察","police",17,18,94
+22,5,"有事","to have something to do",19,20,95
+22,6,"糟糕","how terrible",16,17,94
+22,7,"耐心","patient (adjective)",35,41,85
+22,8,"忘记","to forget",25,28,89
+22,9,"说错","to say incorrectly",15,15,100
+22,10,"好像","to seem like; it seems like",47,56,83
+22,11,"熟悉","to be familiar with",57,73,78
+23,1,"旅行社","travel agency",54,66,81
+23,2,"安排","to arrange; to plan",16,17,94
+23,3,"形成","travel route; itinerary; schedule",45,56,80
+23,4,"订","to reserve; to subscribe; to order",15,18,83
+23,5,"听起来","to sound like",22,24,91
+23,6,"拿到","to obtain",14,14,100
+23,7,"机票","airplane ticket",20,21,95
+23,8,"员工","employee",37,43,86
+23,9,"打折","to give a discount",28,34,82
+23,10,"规划","long-term plan",62,89,69
+23,11,"交给","to hand in to; to give over to; to leave to",46,60,76
+23,12,"刺激","stimulating; exciting",55,75,73
+23,13,"热闹","lively; bustling",20,23,86
+24,1,"考虑","to consider",40,51,78
+24,2,"免费","free (of charge)",14,16,87
+24,3,"环游","to travel around",39,49,79
+24,4,"世界","the world",18,19,94
+24,5,"深奥","profound",32,36,88
+24,6,"自由","free; unrestrained",23,25,92
+25,1,"发生了什么","what happened?",25,31,80
+25,2,"这一周","This week",22,25,88
+25,3,"约定","to set",48,56,85
+25,4,"春节","Spring Festival",35,42,83
+25,5,"记得","to remember",15,15,100
+25,6,"忘了","to forget",30,35,85
+25,7,"派对","party",27,31,87
+25,8,"电视节目","T.V. Show",26,34,76
+25,9,"邀请","to invite",61,75,81
+25,10,"厉害","awesome (terrible, difficult to deal with)",25,29,86
+25,11,"活动","activity (also: exercise)",36,42,85
+25,12,"严格","strict",54,76,71
+25,13,"政府","government",41,52,78
+25,14,"网站","website",24,29,82
+25,15,"软件","software",43,56,76
+25,16,"稳定","stability",18,22,81
+25,17,"隐私","privacy",61,84,72
+25,18,"自由","free; unrestrained",23,25,92
+25,19,"开店","to open a store",14,14,100
+25,20,"宠物","pet",21,22,95
+25,21,"更喜欢","To prefer",27,31,87
+25,22,"伤心","Sad",23,24,95
+25,23,"仓鼠","hamster",29,33,87
+25,24,"害怕","to be afraid",16,17,94
+25,25,"养","to raise, support, to bring up children (or pets)",44,59,74
+25,26,"邻居","neighbor",33,42,78
+25,27,"金鱼","goldfish",22,23,95
+25,28,"兔子","rabbit",14,14,100
+25,29,"再也不","To not want to do something anymore",30,34,88
+26,1,"发现","to discover; to realize",22,24,91
+26,2,"走路","to walk",15,15,100
+26,3,"奇怪","strange",18,20,90
+26,4,"时代","age; era; epic",38,45,84
+26,5,"奇妙","fantastic",33,39,84
+26,6,"小吃","snack",14,14,100
+26,7,"流行","popular",64,88,72
+26,8,"顺便","in passing",50,64,78
+26,9,"元宵节","lantern festival",40,48,83
+26,10,"舞台","stage",32,36,88
+26,11,"就算","even if",51,70,72
+26,12,"对手","opponent",31,36,86
+26,13,"奇迹","miracle",30,43,69
+26,14,"不论","no matter what",28,41,68
+26,15,"冠军","champion",44,69,63
+26,16,"守住","to defend",52,65,80
+27,1,"质量","quality",37,49,75
+27,2,"用起来","used to tie an adjective to a verb",15,16,93
+27,3,"款式","pattern; design; style",31,38,81
+27,4,"价钱","price",34,39,87
+27,5,"合理","rational; reasonable",28,33,84
+27,6,"比如说","for example; such as",28,31,90
+27,7,"减价","cut rate",16,17,94
+27,8,"特别是","especially",29,36,80
+27,9,"品牌","brand",18,19,94
+27,10,"佳能","canon",27,32,84
+27,11,"科大","kodak",15,15,100
+27,12,"尼康","nikon",14,14,100
+27,13,"三星","Samsung",15,15,100
+28,1,"闲聊","to chat; gossip",45,52,86
+28,2,"更高级","higher level; more advanced",52,65,80
+28,3,"不同","different",24,29,82
+28,4,"理解","to comprehend",56,75,74
+28,5,"客服","customer service",26,33,78
+28,6,"完全","complete",30,35,85
+28,7,"错误","error",30,40,75
+28,8,"口音很重","heavy accent",24,27,88
+28,9,"香港","Hong Kong",26,29,89
+28,10,"澳门","Macao",14,14,100
+28,11,"荷兰语","Dutch",21,23,91
+28,12,"麻将","mahjong",22,23,95
+28,13,"提高","to raise",19,21,90
+28,14,"实习","to intern",32,37,86
+29,1,"预定","schedule in advance",33,44,75
+29,2,"包间","private room",41,48,85
+29,3,"大厅","hall; lounge",19,20,95
+29,4,"香","fragrant",15,15,100
+29,5,"盐","salt",25,28,89
+29,6,"减肥","to lose weight",36,43,83
+29,7,"皮尔","skin; peel; outer cover",16,17,94
+29,8,"密码","password",14,15,93
+29,9,"其实","actually",16,17,94
+29,10,"太阳","the sun",34,41,82
+29,11,"羽毛","feather",42,49,85
+29,12,"比较","comparatively",14,14,100
+29,13,"一般","generally",22,24,91
+29,14,"机会","opportunity; chance",16,17,94
+29,15,"迟到","to be late",18,22,81
+29,16,"愿意","willing (to do something)",41,60,68
+29,17,"出现","to appear",52,65,80
+29,18,"哭","to cry",14,14,100
+29,19,"终于","at last",34,52,65
+30,1,"努力","to put effort in",20,26,76
+30,2,"办法","solution; method",27,33,81
+30,3,"照片","photo",22,24,91
+30,4,"过去","in the past",34,42,80
+30,5,"参加","to participate",21,26,80
+30,6,"突然","suddenly",55,65,84
+30,7,"刚才","just now",20,26,76
+30,8,"必须","must",25,27,92
+30,9,"表示","to express",52,71,73
+30,10,"画","to paint",14,14,100
+30,11,"主要","main",33,39,84
+30,12,"环境","environment",25,34,73
+30,13,"脚","foot",26,28,92
+30,14,"经过","to pass",47,60,78
+31,1,"新闻","news",17,19,89
+31,2,"影响","an influence",40,51,78
+31,3,"照顾","to take care of",16,18,88
+31,4,"清楚","clear",23,25,92
+31,5,"除了","besides",27,35,77
+31,6,"习惯","habit",18,23,78
+31,7,"认真","serious; earnest",34,43,79
+31,8,"关于","concerning; about",34,47,72
+31,9,"新鲜","fresh; new",28,32,87
+31,10,"坏","bad",39,45,86
+31,11,"腿","leg",20,21,95
+31,12,"经理","manager",17,18,94
+31,13,"解决","to solve",50,73,68
+31,14,"根据","according to",38,52,73
+32,1,"借","to borrow (also: to lend)",13,14,92
+32,2,"客人","guest",14,14,100
+32,3,"变化","change",21,24,87
+32,4,"树","tree",14,14,100
+32,5,"几乎","almost",15,16,93
+32,6,"成绩","achievement",35,42,83
+32,7,"河","river",19,20,95
+32,8,"表演","performance",20,22,90
+32,9,"难过","sad; feel sorry",26,28,92
+32,10,"月亮","moon",19,21,90
+32,11,"要求","to request",14,14,100
+32,12,"兴趣","interest",17,23,73
+32,13,"聪明","intelligent",14,14,100
+33,1,"干净","clean",31,35,88
+33,2,"旧","old fashioned",15,16,93
+33,3,"刻","moment",20,26,76
+33,4,"会议","meeting",20,21,95
+33,5,"关心","concerned",18,21,85
+33,6,"司机","driver",14,14,100
+33,7,"举行","to hold a meeting",32,39,82
+33,8,"遇到","to come across",46,59,77
+33,9,"着急","to worry; to feel anxious",23,27,85
+34,1,"厨房","kitchen",15,15,100
+34,2,"作用","to affect",32,41,78
+34,3,"满意","satisfied",14,14,100
+34,4,"锻炼","to exercise",21,24,87
+34,5,"邻居","neighbor",33,42,78
+34,6,"检查","inspection",28,36,77
+34,7,"水平","level (of achievement etc)",20,23,86
+34,8,"相同","identical",14,14,100
+34,9,"草","grass",14,14,100
+34,10,"一共","altogether",15,16,93
+34,11,"差","to fall short of",35,39,89
+34,12,"电梯","elevator",19,21,90
+34,13,"空调","air conditioning",16,18,88
+35,1,"处理","to handle (process)",40,51,78
+35,2,"分享","to share",35,44,79
+35,3,"尤其","especially",41,52,78
+35,4,"可怕","terrible; frightening",24,28,85
+35,5,"进去","to enter",15,16,93
+35,6,"政策","policy",47,64,73
+35,7,"控制","to control",36,45,80
+35,8,"罚款","to fine",42,52,80
+35,9,"驾照","drivers license",25,30,83
+35,10,"堵车","traffic jam",25,30,83
+35,11,"枕头","pillow",30,35,85
+35,12,"是否","whether or not",34,44,77
+35,13,"惊讶","amazed",35,41,85
+35,14,"技术","technology",23,25,92
+35,15,"新加坡","Singapore",16,17,94
+36,1,"夜里","at night",25,32,78
+36,2,"傍晚","in the evening",27,32,84
+36,3,"笑话","joke",19,21,90
+36,4,"推荐","recommendation",77,129,59
+36,5,"类型","type",53,81,65
+36,6,"下载","to download",14,14,100
+36,7,"合法","legal",30,35,85
+36,8,"在乎","to care for",24,36,66
+36,9,"完整","complete",13,16,81
+36,10,"硬盘","hard drive",14,14,100
+36,11,"方法","method",29,36,80
+36,12,"检查","inspection",28,36,77
+36,13,"稳定","stability",18,22,81
+37,1,"咳嗽","cough",14,14,100
+37,2,"电池","battery",28,35,80
+37,3,"有用","useful",31,37,83
+37,4,"村子","village",21,27,77
+37,5,"乡下","countryside",29,33,87
+37,6,"工资","salary",31,37,83
+37,7,"薪水","salary",25,33,75
+37,8,"收入","income",18,20,90
+37,9,"南非","South Africa",17,18,94
+37,10,"非洲","Africa",27,34,79
+37,11,"租金","rent",17,19,89
+37,12,"澳洲","Australian continent",21,23,91
+37,13,"房租","rent",23,28,82
+38,1,"并且","and also",13,15,86
+38,2,"搬家","move house",14,15,93
+38,3,"麻烦","inconvenient",15,18,83
+38,4,"地下室","underground lair",13,15,86
+38,5,"正常","normal",15,19,78
+39,1,"康复","to recover",13,18,72
+39,2,"条件","condition",12,12,100
+39,3,"经验","experience (usually work related)",13,21,61
+39,4,"稳定","stability",18,22,81
+39,5,"资料","data",13,14,92
+39,6,"面试","to interview",12,12,100
+39,7,"兼职工作","part-time job",33,45,73
+39,8,"全职工作","fulltime job",42,54,77
+39,9,"尊重","to respect",12,12,100
+39,10,"期待","to look forward to",15,22,68
+39,11,"失望","to be disappointed",15,21,71
+39,12,"试用","trial",14,17,82
+40,1,"具体","specific",13,15,86
+40,2,"满意","satisfied",14,14,100
+40,3,"是否","whether or not",34,44,77
+40,4,"模仿","to imitate",15,18,83
+40,5,"假装","to pretend",17,25,68
+40,6,"机构","organization",14,20,70
+40,7,"推荐","recommendation",77,129,59
+40,8,"地址","address",12,12,100
+40,9,"评价","to evaluate",15,18,83
+40,10,"尊重","to respect",12,12,100
+40,11,"断","to break",12,16,75
+40,12,"解释","to explain",12,12,100
+40,13,"尴尬","awkward",13,13,100
+40,14,"能力","capability",12,12,100
+40,15,"怀疑","to doubt",16,20,80
+40,16,"甚至","even",12,14,85
+40,17,"交换","to exchange",15,19,78
+41,1,"演讲","lecture",17,22,77
+41,2,"使用","to use",13,13,100
+41,3,"高考","university entrance exam",16,18,88
+41,4,"俄语","Russian language",13,13,100
+41,5,"后悔","to regret",15,16,93
+41,6,"母语","mother tongue",12,12,100
